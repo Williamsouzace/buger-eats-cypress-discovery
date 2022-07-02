@@ -1,0 +1,47 @@
+{
+    "personal_information": {
+        "name": "Diego Sousa",
+        "cpf": "08111290390",
+        "email": "diego992916913@gmail.com",
+        "whatsapp": "88993106463",
+        "adress": {
+            "postalcode": "62322240",
+            "street": "Rua Zeferino Ferreira",
+            "number": "1044",
+            "details": "Ao lado do tok som",
+            "district": "Régis Diniz",
+            "city_state": "Tianguá/CE"
+        },
+        "cnh": "cnh-digital.jpg"
+    },
+    "cpf_invalid": {
+        "name": "Diego Sousa",
+        "cpf": "081112903911",
+        "email": "diego992916913@gmail.com",
+        "whatsapp": "88993106463",
+        "adress": {
+            "postalcode": "62322240",
+            "street": "Rua Zeferino Ferreira",
+            "number": "1044",
+            "details": "Ao lado do tok som",
+            "district": "Régis Diniz",
+            "city_state": "Tianguá/CE"
+        },
+        "cnh": "cnh-digital.jpg"
+    },
+    "email_invalid": {
+        "name": "Diego Sousa",
+        "cpf": "08111290390",
+        "email": "diego992916913.com",
+        "whatsapp": "88993106463",
+        "adress": {
+            "postalcode": "62322240",
+            "street": "Rua Zeferino Ferreira",
+            "number": "1044",
+            "details": "Ao lado do tok som",
+            "district": "Régis Diniz",
+            "city_state": "Tianguá/CE"
+        },
+        "cnh": "cnh-digital.jpg"
+    }
+}
